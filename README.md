@@ -1,1 +1,1 @@
-# AnderStudio-2d-rpg-game-programming-in-allegro5
+# 2d-rpg-game-programming-in-allegro5

@@ -1,0 +1,8 @@
+There are total 3 supported mouse buttons
+Allegro5 initialized
+Game begin
+Change scene from 0 to 1
+Game initialized
+Game start event loop
+Window close button clicked
+Game end
